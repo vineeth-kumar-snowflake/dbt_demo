@@ -1,0 +1,8 @@
+sources:
+  - name: demo
+    database: my_db
+    schema: my_schema
+    tables:
+      - name: bike
+      - name: weather
+        
